@@ -3,19 +3,6 @@
 
 <h1 align="center">IP Address Tracker</h1>
 
-<div align="center">
-
-[Live](https://catherineisonline.github.io/ip-address-tracker-frontendmentor/)
-| [Solution](https://www.frontendmentor.io/solutions/ip-address-tracker-02_5ChONI)
-| [Challenge](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0)
-
-Solution for a challenge from [frontendmentor.io](https://www.frontendmentor.io/)
-
-</div>
-
-
-
-
 ## About The Project
 
 In this challenge, I will be using two separate APIs together to create an IP Address Tracking app.
@@ -57,9 +44,3 @@ For some reason the gitignore is havin'g issues so I decided to keep the API key
 2. [Perfect Pixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi) - Awesome Chrome extension that helps you to match the pixels of the provided design.
 4. [Leaflet](https://geo.ipify.org/) - an open-source JavaScript library for mobile-friendly interactive maps
 5. [Free IP Geo Location](https://ipgeolocation.io/) - provides a free IP gelocation API for software developers I am currently using. This is a temporary replacement
-
-
-
-## Acknowledgments
-
-A big thank you to anyone providing feedback on my [solution](https://www.frontendmentor.io/solutions/ip-address-tracker-02_5ChONI). It definitely helps to find new ways to code and find easier solutions! 
